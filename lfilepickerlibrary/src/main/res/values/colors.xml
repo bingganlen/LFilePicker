@@ -7,4 +7,9 @@
     <color name="lfile_lightgray">#dddddd</color>
     <color name="lfile_white">#fff</color>
     <color name="lfile_defaultColor">#92B4F4</color>
+
+
+    <color name="colorPrimary">#4ab8cb</color>
+    <color name="colorPrimaryDark">#4ab8cb</color>
+    <color name="colorAccent">#4ab8cb</color>
 </resources>

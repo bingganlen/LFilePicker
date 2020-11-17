@@ -12,6 +12,18 @@
         <item name="actionMenuTextColor">@android:color/white</item>
     </style>
 
+    <style name="MyAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="homeAsUpIndicator">@mipmap/lfile_back1</item>
+        <item name="actionBarSize">36dp</item>
+        <item name="navigationIcon">@mipmap/lfile_back1</item><!--返回icon-->
+        <!-- 溢出菜单图标颜色-->
+        <item name="colorControlNormal">@android:color/white</item>
+        <item name="actionMenuTextColor">@android:color/white</item>
+    </style>
+
     <!--toolbar 上title的样式-->
     <style name="LFileToolbarTextStyle" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
         <item name="android:textColor">@color/lfile_white</item>
